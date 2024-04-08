@@ -1,3 +1,3 @@
 # Projecrt-X
 
-Це комміт від bofiua
+Це проек знаходиться на bofiua
