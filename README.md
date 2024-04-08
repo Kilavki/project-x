@@ -1,3 +1,3 @@
-# projecrt-X
+# Projecrt-X
 
 Це комміт від bofiua
