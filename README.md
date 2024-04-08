@@ -1,3 +1,3 @@
 # project-x
 
-This commit from kilavki
+This project is from kilavki
